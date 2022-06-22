@@ -1,5 +1,5 @@
-//Karol Chadzynski 2B
-//Zad.2
+//Karol Chadzynski 
+//Program do liczenia pola między funkcjami
 /*
 obliczanie pola ograniczonego dwoma
 wykresami funkcji a,b - metoda trapezow
